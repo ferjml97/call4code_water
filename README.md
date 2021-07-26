@@ -101,20 +101,20 @@ The starter kit provides tools and resources from our experts to help you jump-s
  <ul>
  <details>
   <summary> Canal de Youtube 🎞 </summary>
-    <div>
+    <div></br>
     <img align="center" href="https://www.youtube.com/channel/UCvzjHuCK_IibzNNFpnNbBYQ"
     src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Canal de Youtube">  
     </div>
     <ul>
       <details>  
-        <summary> Pitch ⚾ </summary>
+        <summary> Pitch ⚾ </summary></br>
           <img align="center" href="https://www.youtube.com/watch?v=_40dMAMhlRQ&ab_channel=Forest4Water"
           src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white"  alt="Pitch">  
-      </details>
+      </details></br>
     </ul>
     <ul>
       <details>  
-        <summary> APP Demo 📱 </summary>
+        <summary> APP Demo 📱 </summary></br>
           <img align="center" href="https://www.youtube.com/watch?v=FDG5JZsy8s4&ab_channel=Forest4Water"  
           src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="APP Demo"> 
       </details>
@@ -128,109 +128,22 @@ The starter kit provides tools and resources from our experts to help you jump-s
 
 
 ## Autores 🖋
-<ul>
-<details>  
+  <ul>
+  <details>  
+    </br>
       <summary> Equipo </summary>
-    <html lang="es">
-      <style>
-    .contenedor {
-    padding: 60px 0;
-    width: 90%;
-    max-width: 1000px;
-    margin: auto;
-    overflow: hidden;
-    }
-    .cards{
-        display: flex;
-        justify-content: space-evenly;  
-        /*padding: 10;*/ 
-    }
-    .cards .card:hover{
-        background-color: rgb(46, 43, 43);
-    }
-    .cards .card{
-        background: rgba(26, 24, 27, 0.7);
-        display: flex;
-        width: 46%;
-        height: 150px;
-        align-items: center;
-        justify-content: space-evenly;
-        border-radius: 8px;
-        margin-bottom: 20px;
-        box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
-        cursor: pointer;
-    }
-    .cards .card img{
-        width: 100px;
-        height: 100px;
-        object-fit: cover;
-        border: 3px solid #fff;
-        border-radius: 50%;
-        display: block;
-    }
-</style>
-      <body>
-        <main>
-            <section class="clientes contenedor"> 
-              <div class="cards">
-                        <div class="card">
-                            <img href="https://github.com/gonzalezivan90" align="left" src="https://avatars.githubusercontent.com/u/5403068?v=4" height="50" width="50"> 
-                            <div class="contenido-texto-card">
-                                <h3>IVÁN GONZÁLEZ</h3>
-                                <h4>gonzalezivan90</h4>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <img href="https://github.com/danflop" align="left" src="https://avatars.githubusercontent.com/u/5290060?v=4" height="50" width="50">     
-                            <div class="contenido-texto-card">
-                                <h3>DANIEL LÓPEZ</h3>
-                                <h4>danflop</h4>
-                            </div>
-                        </div>
-                    </div>
-                        <div class="cards">
-                        <div class="card">
-                            <img href="https://github.com/neo-zero98" align="left" src="https://avatars.githubusercontent.com/u/74437268?v=4" height="50" width="50">     
-                            <div class="contenido-texto-card">
-                                <h3>CALEB HERNANDEZ</h3>
-                                <h4>neo-zero98</h4>
-                            </div>
-                        </div>
-                        <div class="card">
-                            <img href="https://github.com/ferjml97" align="left" src="https://avatars.githubusercontent.com/u/47682546?v=4" height="50" width="50">
-                            <div class="contenido-texto-card">
-                                <h3>FERNANDO MALDONADO</h3>
-                                <h4>ferjml97</h4>
-                            </div>
-                          </div>
-                    </div>
-                </div>
-            </section>
-        </main>
-    </body>
-    </html>
-    </details>
+      <img height="50" width="50" href="https://github.com/gonzalezivan90" align="left" src="https://avatars.githubusercontent.com/u/5403068?v=4" > 
+      <img href="https://github.com/danflop" align="left" src="https://avatars.githubusercontent.com/u/5290060?v=4" height="50" width="50">     
+      <img href="https://github.com/neo-zero98" align="left" src="https://avatars.githubusercontent.com/u/74437268?v=4" height="50" width="50">  
+      <img href="https://github.com/ferjml97" align="left" src="https://avatars.githubusercontent.com/u/47682546?v=4" height="50" width="50">
+  </details>
+  </br>
   </ul>
-  
-<div>
-  <div>
-  <img href="https://github.com/gonzalezivan90" align="left" src="https://avatars.githubusercontent.com/u/5403068?v=4" height="50" width="50"> 
-    <!--
-    <aside>
-      <h5>gonzalezivan90</h5>
-      <p>Hola, soy...</p>
-    </aside>
-    --> 
-  <img href="https://github.com/danflop" align="left" src="https://avatars.githubusercontent.com/u/5290060?v=4" height="50" width="50">     
-  <img href="https://github.com/neo-zero98" align="left" src="https://avatars.githubusercontent.com/u/74437268?v=4" height="50" width="50">  
-  <img href="https://github.com/ferjml97" align="left" src="https://avatars.githubusercontent.com/u/47682546?v=4" height="50" width="50">
-  </div>
-</div>
-
-#
----
+ 
+ ---
 
 <div>
 <img src="https://3kda485d4m0mmprok50zsd5m-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/sponsorlogo-IBM-600x300.png" align="right" height="80" width="80" vspace="35" hspace="10">
 <img src="https://media.giphy.com/avatars/Shawee/mLOfJ4qIzm9a.png" align="right" height="80"width="80" vspace="35" hspace="10">
 </div>
+

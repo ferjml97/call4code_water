@@ -71,8 +71,8 @@ The starter kit provides tools and resources from our experts to help you jump-s
   - Más
   
 ### Q&A 💬
-<ul>
-  🔽<details open>
+🔽<ul>
+  <details open>
   <summary> ❓ / ❗ </summary>
     1._ Qué sistema Operativo(S.O) se utilizó? </br>  
       R= Sí, en este caso se hizo con Windows porque considero que la mayoría lo usa, y así se evita hacer un Dual Boot. </br><br>
@@ -96,8 +96,8 @@ The starter kit provides tools and resources from our experts to help you jump-s
 
 ## Solución 
   
-  <ul>
-  🔽<details>
+ 🔽<ul>
+ <details>
   <summary> Link's Youtube 🎞 </summary>
     <div>
     <img align="center" href="https://www.youtube.com/channel/UCvzjHuCK_IibzNNFpnNbBYQ"

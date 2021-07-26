@@ -129,6 +129,65 @@ The starter kit provides tools and resources from our experts to help you jump-s
 
 ## Autores 🖋
 
+  <ul>
+    <details>  
+      <summary> Equipo </summary>
+      <!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Página web AlexCG</title>
+    <link rel="shortcut icon" href="img/alexcgdesign.png" type="image/x-icon">
+    <link rel="stylesheet" href="css/team_style.css">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
+</head>
+    <main>
+        <section class="clientes contenedor">
+           
+            <div class="cards">
+                    <div class="card">
+                        <img href="https://github.com/gonzalezivan90" align="left" src="https://avatars.githubusercontent.com/u/5403068?v=4" height="50" width="50"> 
+                        <div class="contenido-texto-card">
+                            <h3>IVÁN GONZÁLEZ</h3>
+                            <h4>gonzalezivan90</h4>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img href="https://github.com/danflop" align="left" src="https://avatars.githubusercontent.com/u/5290060?v=4" height="50" width="50">     
+                        <div class="contenido-texto-card">
+                            <h3>DANIEL LÓPEZ</h3>
+                            <h4>danflop</h4>
+                        </div>
+                    </div>
+                </div>
+                    <div class="cards">
+                    <div class="card">
+                        <img href="https://github.com/neo-zero98" align="left" src="https://avatars.githubusercontent.com/u/74437268?v=4" height="50" width="50">     
+                        <div class="contenido-texto-card">
+                            <h3>CALEB HERNANDEZ</h3>
+                            <h4>neo-zero98</h4>
+                        </div>
+                    </div>
+                    <div class="card">
+                        <img href="https://github.com/ferjml97" align="left" src="https://avatars.githubusercontent.com/u/47682546?v=4" height="50" width="50">
+                        <div class="contenido-texto-card">
+                            <h3>FERNANDO MALDONADO</h3>
+                            <h4>ferjml97</h4>
+                        </div>
+                    </conteiner>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+</body>
+</html>
+    </details>
+  </ul>
+  
 <div>
   <div>
   <img href="https://github.com/gonzalezivan90" align="left" src="https://avatars.githubusercontent.com/u/5403068?v=4" height="50" width="50"> 
@@ -140,11 +199,11 @@ The starter kit provides tools and resources from our experts to help you jump-s
     --> 
   <img href="https://github.com/danflop" align="left" src="https://avatars.githubusercontent.com/u/5290060?v=4" height="50" width="50">     
   <img href="https://github.com/neo-zero98" align="left" src="https://avatars.githubusercontent.com/u/74437268?v=4" height="50" width="50">  
-  <img href="https://github.com/elvisdev0" align="left" src="https://avatars.githubusercontent.com/u/57382598?v=4" height="50" width="50">  
-  <img href="https://github.com/ferjml97" align="left" src="https://avatars.githubusercontent.com/u/47682546?v=4" style="border-radius: 100px" height="50" width="50">
+  <img href="https://github.com/ferjml97" align="left" src="https://avatars.githubusercontent.com/u/47682546?v=4" height="50" width="50">
   </div>
 </div>
 
+#
 ---
 
 <div>

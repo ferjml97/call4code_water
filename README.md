@@ -36,7 +36,7 @@ The starter kit provides tools and resources from our experts to help you jump-s
    4.2 billion people do not have safely managed sanitation services, and 3 billion people lack basic handwashing facilities.
    These services are critical in preventing the spread of COVID-19 and other diseases.  
    Even in areas that have these services, there are vast inequalities in the accessibility, availability, and quality of the services. 
-   <img src=" https://i.imgur.com/Yn45SbV.png" align="right" height="150 width="180 vspace="35" hspace="10">
+   
   </ul>
   
 ## Descripción 📑
@@ -57,12 +57,14 @@ The starter kit provides tools and resources from our experts to help you jump-s
 
 
 ### Instalación 💿
-
-### Ejecutando las pruebas ⚙️
-
+> *Próximamente..*
+  
+### Pruebas ⚙️
+> *No se han añadido ningún test*
+  
 ### Despliegue 📦
 
-### Construido con 🛠️
+### Construido con 🛠
   - IBM CLOUD: 
     - Watson Studio
     - Watson Assistant
@@ -70,14 +72,14 @@ The starter kit provides tools and resources from our experts to help you jump-s
   
 ### Q&A 💬
 <ul>
-  <details>
+  🔽<details open>
   <summary> ❓ / ❗ </summary>
     1._ Qué sistema Operativo(S.O) se utilizó? </br>  
       R= Sí, en este caso se hizo con Windows porque considero que la mayoría lo usa, y así se evita hacer un Dual Boot. </br><br>
     2._ Podrían darme ayuda para el desarrollo de este proyecto? </br>
       R= Sí, de preferencia usar solo los archivos con terminación .c y compilarlos nuevamente para su ejecución. </br><br>
     3._ Dónde puedo encontrar información especifica relacionada a este desarrollo? </br>
-    R= En el apartado <a href="https://github.com/ferjml97/OpenMp_Lib#instalaci%C3%B3n-">Instalación 💿</a> se encuentrán los manuales y videos de instalación.</br><br>
+    R= En el apartado <a href="https://github.com/ferjml97/call4code_water/blob/main/README.md#enlaces-de-inter%C3%A9s-">Enlaces de Interés 👀</a> se encuentrán los manuales y videos de instalación.</br><br>
    
    😃 ...
   </ul>
@@ -93,12 +95,37 @@ The starter kit provides tools and resources from our experts to help you jump-s
 - [Clean water and sanitation](https://developer.ibm.com/callforcode/get-started/climate-change/clean-water/ "Clean water and sanitation")
 
 ## Solución 
+  
+  <ul>
+  🔽<details>
+  <summary> Link's Youtube 🎞 </summary>
+    <img align="center" href="https://www.youtube.com/channel/UCvzjHuCK_IibzNNFpnNbBYQ"
+    src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Canal de Youtube">  
+    <ul>
+      <details>  
+        <summary> Pitch ⚾ </summary>
+          <img align="center" href="https://www.youtube.com/watch?v=_40dMAMhlRQ&ab_channel=Forest4Water" alt="Pitch">  
+          src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
+      </details>
+    </ul>
+  
+    <ul>
+      <details>  
+        <summary> APP Demo 📱 </summary>
+          <img align="center" href="https://www.youtube.com/watch?v=FDG5JZsy8s4&ab_channel=Forest4Water" alt="APP Demo">  
+          src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
+      </details>
+    </ul>
+  
+  </details>
+  </ul>
+  
   Puedes acceder al **sitio WEB** haciendo click al botón.
   [Solución](http://169.60.171.142:3838/call4code/ "SITIO WEB")|
   |---|
 
 
-## Autores ✒️
+## Autores 🖋
 
 <div>
   <div>

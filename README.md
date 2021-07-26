@@ -133,15 +133,46 @@ The starter kit provides tools and resources from our experts to help you jump-s
     <details>  
       <summary> Equipo </summary>
     <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <meta http-equiv="X-UA-Compatible" content="ie=edge">
-        <title>Página web AlexCG</title>
-        <link rel="shortcut icon" href="img/alexcgdesign.png" type="image/x-icon">
-        <link rel="stylesheet" href="css/team_style.css">
-        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&display=swap" rel="stylesheet"> 
-    </head>
+    <style>
+      .contenedor {
+    padding: 60px 0;
+    width: 90%;
+    max-width: 1000px;
+    margin: auto;
+    overflow: hidden;
+}
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+    /*padding: 10;*/
+   
+    
+}
+.cards .card:hover{
+    background-color: rgb(46, 43, 43);
+}
+.cards .card{
+    background: rgba(26, 24, 27, 0.7);
+    display: flex;
+    width: 46%;
+    height: 150px;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+    cursor: pointer;
+}
+
+.cards .card img{
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border: 3px solid #fff;
+    border-radius: 50%;
+    display: block;
+}
+    </style>
         <main>
             <section class="clientes contenedor"> 
               <div class="cards">

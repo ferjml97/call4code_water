@@ -71,7 +71,7 @@ The starter kit provides tools and resources from our experts to help you jump-s
   - Más
   
 ### Q&A 💬
-🔽 **`WINDOWS`**
+▶ **`Preguntas y respuestas`**
   <ul>
   <details open>
   <summary> ❓ / ❗ </summary>
@@ -97,10 +97,10 @@ The starter kit provides tools and resources from our experts to help you jump-s
 - [Clean water and sanitation](https://developer.ibm.com/callforcode/get-started/climate-change/clean-water/ "Clean water and sanitation")
 
 ## Solución 
-  
- 🔽<ul>
+ ▶ **`LINK'S`**
+ <ul>
  <details>
-  <summary> Link's Youtube 🎞 </summary>
+  <summary> Canal de Youtube 🎞 </summary>
     <div>
     <img align="center" href="https://www.youtube.com/channel/UCvzjHuCK_IibzNNFpnNbBYQ"
     src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Canal de Youtube">  

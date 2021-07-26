@@ -19,8 +19,7 @@ body {
     
 }
 .cards .card:hover{
-    background-color: rgb(156, 26, 26);
-    color: black;
+    background-color: rgb(46, 43, 43);
 }
 .cards .card{
     background: rgba(26, 24, 27, 0.7);

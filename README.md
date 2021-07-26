@@ -1,33 +1,48 @@
-
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat&logo=git&logoColor=%23ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat&logo=css3)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat&logo=html5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=ffffff)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 ---
 
-# Call for Code: Clean water and sanitation
+# Call for Code
 
-<img src="https://callforcode.org/wp-content/uploads/2018/05/Call_for_Code_logo_vector_toptype_color.png" align="right" height="150" width="150" vspace="35" hspace="10">
+<img src="https://callforcode.org/wp-content/uploads/2018/05/Call_for_Code_logo_vector_toptype_color.png" align="right" height="180" width="150" vspace="35" hspace="10">
 
 Use this starter kit to understand how technology can improve access to clean drinking water, reduce water waste, and protect natural resources. 
 The starter kit provides tools and resources from our experts to help you jump-start your own solution for the 2021 Call for Code Global Challenge.
 
 ### Indice
   - **[Descripción 📑](#descripción-)**
-  - **[OpenMP 📔](#openmp-)**
+  - **[Desafío 📔](#desafio-)**
   - **[Pre-requisitos 📋](#pre-requisitos-)** 
   - **[Instalación 💿](#instalación-)** 
-  - **[Pruebas ⚙️](#pruenas-)** 
+  - **[Pruebas ⚙️](#pruebas-)** 
   - **[Despliegue 📦](#despliegue-)** 
   - **[Construido con 🛠️](#construido-con-)** 
   - **[Q&A 💬](#qa-)**
   - **[Enlaces de Interés 👀](#enlaces-de-interés-)**
   - **[Autores ✒️](#autores-)**
 
-
+## Desafío 📔
+   ### Clean water and sanitation
+  <ul>
+  <details>
+  <summary> What is the problem? </summary>
+   Water is the natural resource that is most threatened by climate change and is a prerequisite for life on earth.  
+   According to the World Health Organization, 2.2 billion people around the world do not have safely managed drinking water services,  
+   4.2 billion people do not have safely managed sanitation services, and 3 billion people lack basic handwashing facilities.
+   These services are critical in preventing the spread of COVID-19 and other diseases.  
+   Even in areas that have these services, there are vast inequalities in the accessibility, availability, and quality of the services. 
+   <img src=" https://i.imgur.com/Yn45SbV.png" align="right" height="150 width="180 vspace="35" hspace="10">
+  </ul>
+  
 ## Descripción 📑
 
 <!--
 <img src="https://callforcode.org/wp-content/uploads/2018/05/Call_for_Code_logo_vector_toptype_color.png" align="right" height="150" width="150" vspace="35" hspace="10">
-
-<img src="https://3kda485d4m0mmprok50zsd5m-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/sponsorlogo-IBM-600x300.png" align="right" height="150" width="150" vspace="35" hspace="10">
-<img src="https://media.giphy.com/avatars/Shawee/mLOfJ4qIzm9a.png" align="right" height="150" width="150" vspace="35" hspace="10">
 -->
 <div style="text-align: justify;">
   
@@ -48,7 +63,11 @@ The starter kit provides tools and resources from our experts to help you jump-s
 ### Despliegue 📦
 
 ### Construido con 🛠️
-
+  - IBM CLOUD: 
+    - Watson Studio
+    - Watson Assistant
+  - Más
+  
 ### Q&A 💬
 <ul>
   <details>
@@ -60,7 +79,7 @@ The starter kit provides tools and resources from our experts to help you jump-s
     3._ Dónde puedo encontrar información especifica relacionada a este desarrollo? </br>
     R= En el apartado <a href="https://github.com/ferjml97/OpenMp_Lib#instalaci%C3%B3n-">Instalación 💿</a> se encuentrán los manuales y videos de instalación.</br><br>
    
-    😅 ... no sé que más poner.
+   😃 ...
   </ul>
   
 ### Enlaces de Interés 👀
@@ -71,6 +90,13 @@ The starter kit provides tools and resources from our experts to help you jump-s
 - [IBM - Creación e implementación de app R Shiny](https://www.ibm.com/support/producthub/icpdata/docs/content/SSQNUZ_latest/wsj/analyze-data/rshinyapps.html "Creación e implementación de aplicaciones R Shiny (RStudio Server con R 3.6)")
 - [R Markdown](https://rmarkdown.rstudio.com/ "R Markdown")
 - [Call for Code 2021](https://developer.ibm.com/callforcode/ "Call for Code")
+- [Clean water and sanitation](https://developer.ibm.com/callforcode/get-started/climate-change/clean-water/ "Clean water and sanitation")
+
+## Solución 
+  Puedes acceder al **sitio WEB** haciendo click al botón.
+  [Solución](http://169.60.171.142:3838/call4code/ "SITIO WEB")|
+  |---|
+
 
 ## Autores ✒️
 
@@ -88,4 +114,11 @@ The starter kit provides tools and resources from our experts to help you jump-s
   <img href="https://github.com/elvisdev0" align="left" src="https://avatars.githubusercontent.com/u/57382598?v=4" height="50" width="50">  
   <img href="https://github.com/ferjml97" align="left" src="https://avatars.githubusercontent.com/u/47682546?v=4" style="border-radius: 100px" height="50" width="50">
   </div>
+</div>
+
+---
+
+<div>
+<img src="https://3kda485d4m0mmprok50zsd5m-wpengine.netdna-ssl.com/wp-content/uploads/2018/07/sponsorlogo-IBM-600x300.png" align="right" height="80" width="80" vspace="35" hspace="10">
+<img src="https://media.giphy.com/avatars/Shawee/mLOfJ4qIzm9a.png" align="right" height="80"width="80" vspace="35" hspace="10">
 </div>

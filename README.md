@@ -36,7 +36,7 @@ The starter kit provides tools and resources from our experts to help you jump-s
    4.2 billion people do not have safely managed sanitation services, and 3 billion people lack basic handwashing facilities.
    These services are critical in preventing the spread of COVID-19 and other diseases.  
    Even in areas that have these services, there are vast inequalities in the accessibility, availability, and quality of the services. 
-   
+   </details>
   </ul>
   
 ## Descripción 📑
@@ -108,7 +108,6 @@ The starter kit provides tools and resources from our experts to help you jump-s
           src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
       </details>
     </ul>
-  
     <ul>
       <details>  
         <summary> APP Demo 📱 </summary>
@@ -116,7 +115,6 @@ The starter kit provides tools and resources from our experts to help you jump-s
           src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
       </details>
     </ul>
-  
   </details>
   </ul>
   

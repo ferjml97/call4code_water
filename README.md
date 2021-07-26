@@ -128,13 +128,12 @@ The starter kit provides tools and resources from our experts to help you jump-s
 
 
 ## Autores 🖋
-
-  <ul>
-    <details>  
+<ul>
+<details>  
       <summary> Equipo </summary>
     <html lang="es">
-    <style>
-      .contenedor {
+      <style>
+    .contenedor {
     padding: 60px 0;
     width: 90%;
     max-width: 1000px;
@@ -169,7 +168,8 @@ The starter kit provides tools and resources from our experts to help you jump-s
         border-radius: 50%;
         display: block;
     }
-    </style>
+</style>
+      <body>
         <main>
             <section class="clientes contenedor"> 
               <div class="cards">

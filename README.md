@@ -99,20 +99,22 @@ The starter kit provides tools and resources from our experts to help you jump-s
   <ul>
   🔽<details>
   <summary> Link's Youtube 🎞 </summary>
+    <div>
     <img align="center" href="https://www.youtube.com/channel/UCvzjHuCK_IibzNNFpnNbBYQ"
     src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="Canal de Youtube">  
+    </div>
     <ul>
       <details>  
         <summary> Pitch ⚾ </summary>
-          <img align="center" href="https://www.youtube.com/watch?v=_40dMAMhlRQ&ab_channel=Forest4Water" alt="Pitch">  
-          src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
+          <img align="center" href="https://www.youtube.com/watch?v=_40dMAMhlRQ&ab_channel=Forest4Water"
+          src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white"  alt="Pitch">  
       </details>
     </ul>
     <ul>
       <details>  
         <summary> APP Demo 📱 </summary>
-          <img align="center" href="https://www.youtube.com/watch?v=FDG5JZsy8s4&ab_channel=Forest4Water" alt="APP Demo">  
-          src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white">  
+          <img align="center" href="https://www.youtube.com/watch?v=FDG5JZsy8s4&ab_channel=Forest4Water"  
+          src= "https://img.shields.io/badge/YouTube-FF0000?style=plastic&logo=youtube&logoColor=white" alt="APP Demo"> 
       </details>
     </ul>
   </details>

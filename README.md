@@ -71,7 +71,8 @@ The starter kit provides tools and resources from our experts to help you jump-s
   - Más
   
 ### Q&A 💬
-🔽<ul>
+🔽 **`WINDOWS`**
+  <ul>
   <details open>
   <summary> ❓ / ❗ </summary>
     1._ Qué sistema Operativo(S.O) se utilizó? </br>  
@@ -82,6 +83,7 @@ The starter kit provides tools and resources from our experts to help you jump-s
     R= En el apartado <a href="https://github.com/ferjml97/call4code_water/blob/main/README.md#enlaces-de-inter%C3%A9s-">Enlaces de Interés 👀</a> se encuentrán los manuales y videos de instalación.</br><br>
    
    😃 ...
+  </details>
   </ul>
   
 ### Enlaces de Interés 👀

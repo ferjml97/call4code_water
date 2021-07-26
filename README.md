@@ -140,38 +140,35 @@ The starter kit provides tools and resources from our experts to help you jump-s
     max-width: 1000px;
     margin: auto;
     overflow: hidden;
-}
-.cards{
-    display: flex;
-    justify-content: space-evenly;
-    /*padding: 10;*/
-   
-    
-}
-.cards .card:hover{
-    background-color: rgb(46, 43, 43);
-}
-.cards .card{
-    background: rgba(26, 24, 27, 0.7);
-    display: flex;
-    width: 46%;
-    height: 150px;
-    align-items: center;
-    justify-content: space-evenly;
-    border-radius: 8px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
-    cursor: pointer;
-}
-
-.cards .card img{
-    width: 100px;
-    height: 100px;
-    object-fit: cover;
-    border: 3px solid #fff;
-    border-radius: 50%;
-    display: block;
-}
+    }
+    .cards{
+        display: flex;
+        justify-content: space-evenly;  
+        /*padding: 10;*/ 
+    }
+    .cards .card:hover{
+        background-color: rgb(46, 43, 43);
+    }
+    .cards .card{
+        background: rgba(26, 24, 27, 0.7);
+        display: flex;
+        width: 46%;
+        height: 150px;
+        align-items: center;
+        justify-content: space-evenly;
+        border-radius: 8px;
+        margin-bottom: 20px;
+        box-shadow: 0 0 6px 0 rgba(0, 0, 0, 0.6);
+        cursor: pointer;
+    }
+    .cards .card img{
+        width: 100px;
+        height: 100px;
+        object-fit: cover;
+        border: 3px solid #fff;
+        border-radius: 50%;
+        display: block;
+    }
     </style>
         <main>
             <section class="clientes contenedor"> 
@@ -205,8 +202,7 @@ The starter kit provides tools and resources from our experts to help you jump-s
                                 <h3>FERNANDO MALDONADO</h3>
                                 <h4>ferjml97</h4>
                             </div>
-                        </conteiner>
-                        </div>
+                          </div>
                     </div>
                 </div>
             </section>
